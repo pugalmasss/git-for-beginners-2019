@@ -21,7 +21,7 @@ Before we begin - tell us a bit about yourself.
 - Navigate to the repository and create a new branch named submission.
 - Navigate to the submissions directory.
 - In the directory, create a new directory named assessment.
-- Inside assessment, create a file named task.md.
+- Inside assessment, create a file named `task.md`.
 - Fill the file with the contents of your completed exercise.
 - Commit the changes.
 - Please create a label called 'submission'
